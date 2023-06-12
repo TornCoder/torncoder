@@ -25,6 +25,5 @@ I'm a tech enthusiast who loves to explore new technologies and build amazing th
 ![Top Langs](https://ismartboi07-github-readme-stat.vercel.app/api/top-langs/?username=ismartboi-07&layout=donut)
 
 Feel free to check out my projects and connect with me on GitHub. Let's build something amazing together!
-<h3 align="left">Connect with me:</h3><p align="left"><a href="https://twitter.com/ismartboi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismartboi07" height="30" width="40" /></a><a href="https://linkedin.com/in/ismartboi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismartboi07" height="30" width="40" /></a></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ismartboi-07&theme=dark&hide_border=true)](https://git.io/streak-stats)
