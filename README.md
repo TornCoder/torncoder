@@ -13,6 +13,8 @@ I'm a tech enthusiast who loves to explore new technologies and build amazing th
 - **Technology**: I'm always on the lookout for new and exciting technologies to learn and incorporate into my projects.
 - **Logo Design**: As a hobby, I enjoy designing logos and experimenting with different design styles.
 
+![Top Langs](https://ismartboi07-github-readme-stat.vercel.app/api/top-langs/?username=ismartboi-07&layout=donut-vertical)
+
 ## My Tech Stack
 
 - **Front-end**: HTML, CSS, JavaScript, Bootstarp.
