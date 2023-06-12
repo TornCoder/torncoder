@@ -20,6 +20,6 @@ I'm a tech enthusiast who loves to explore new technologies and build amazing th
 - **Back-end**: Java, PHP, Python, C, C++, SQL, MongoDB
 - **Software Knowledge**: Git, Microsoft, Photoshop, Adobe Illustrator, Figma
 
-![Top Langs](https://ismartboi07-github-readme-stat.vercel.app/api/top-langs/?username=ismartboi-07&layout=donut-vertical)
+![Top Langs](https://ismartboi07-github-readme-stat.vercel.app/api/top-langs/?username=ismartboi-07&layout=donut)
 
 Feel free to check out my projects and connect with me on GitHub. Let's build something amazing together!
