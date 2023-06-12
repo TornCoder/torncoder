@@ -1,5 +1,4 @@
 # Full Stack Developer | Tech Lover | Hobby Logo Maker
-![GitHub followers](https://img.shields.io/github/followers/ismartboi-07?label=Follow%20Me%20On%20Github&style=social)
 
 
 👋 Hi there! I'm a full stack developer with a passion for technology and a hobby of making logos.
