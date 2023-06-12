@@ -7,6 +7,7 @@
 ## About Me
 
 I'm a tech enthusiast who loves to explore new technologies and build amazing things. When I'm not coding, you can find me tinkering with gadgets or designing logos.
+<br>
 ![ArchitJain's GitHub stats](https://ismartboi07-github-readme-stat.vercel.app/api?username=ismartboi-07&show_icons=true&theme=radical)
 
 ## My Skills
