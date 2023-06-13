@@ -1,5 +1,6 @@
 # Full Stack Developer | Tech Lover | Hobby Logo Maker
 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136259634/245549008-a5395650-a6fb-4671-b35a-c096f8f96b84.png" alt="Alien Monster" width="30" height="30" /> [**Connect Me On Github**](https://github.com/ismartboi-07)
 
 👋 Hi there! I'm a full stack developer with a passion for technology and a hobby of making logos.
 
