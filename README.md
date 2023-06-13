@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/136259634/245551159-6bc56ad8-d6e1-47f9-9c6b-73fc86fe6b83.png" alt="Eye" width="30" height="30" /> [**Connect Me On Github**](https://github.com/ismartboi-07)
 
-<img src="https://user-images.githubusercontent.com/136259634/245551944-cb14ff0b-3deb-4f6d-8a24-6c389171de90.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
- Hi there! I'm a full stack developer with a passion for technology and a hobby of making logos.
+<img src="https://user-images.githubusercontent.com/136259634/245551944-cb14ff0b-3deb-4f6d-8a24-6c389171de90.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hi there! I'm a full stack developer with a passion for technology and a hobby of making logos.
 
 ## About Me
 
